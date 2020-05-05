@@ -1,0 +1,3677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ACAML xmlns="urn:schemas-agilent-com:acaml15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Checksum Algorithm="MD5">
+		<Value>sa45do4sToIsAylZL/bC8w==</Value>
+	</Checksum>
+	<Doc ContentVersioned="false">
+		<DocID>2d9eb9f8-567d-4884-b723-014bacf66863</DocID>
+		<DocInfo>
+			<Description>ACAML Export</Description>
+			<CreatedByUser>ELABS\ndinh</CreatedByUser>
+			<CreatedByApplication>
+				<AgilentApp>
+					<Name>ChemStation</Name>
+					<Version>2.169.0.0</Version>
+				</AgilentApp>
+			</CreatedByApplication>
+			<CreationDate>2017-01-21T17:30:56.725-07:00</CreationDate>
+			<ClientName>HPLC003</ClientName>
+		</DocInfo>
+		<Content>
+			<Resources>
+				<Instrument xsi:type="InstrumentType" id="0e92c913-f779-4608-826d-4d4c905deef6" ver="0">
+					<Name>HPLC003</Name>
+					<Technique>LiquidChromatography</Technique>
+					<Module>
+						<Name>Quat. Pump</Name>
+						<Type>Pump</Type>
+						<PartNo>G1311A</PartNo>
+						<SerialNo>DE43628838</SerialNo>
+						<FirmwareRevision>A.06.10 [005]</FirmwareRevision>
+					</Module>
+					<Module>
+						<Name>Sampler</Name>
+						<Type>Auto sampler</Type>
+						<PartNo>G1329A</PartNo>
+						<SerialNo>DE43613629</SerialNo>
+						<FirmwareRevision>A.06.10 [006]</FirmwareRevision>
+					</Module>
+					<Module>
+						<Name>Column Comp.</Name>
+						<Type>Column compartment</Type>
+						<PartNo>G1316A</PartNo>
+						<SerialNo>DE43641809</SerialNo>
+						<FirmwareRevision>A.06.10 [004]</FirmwareRevision>
+					</Module>
+					<Module>
+						<Name>VWD</Name>
+						<Type>Detector</Type>
+						<PartNo>G1314A</PartNo>
+						<SerialNo>JP43825182</SerialNo>
+						<FirmwareRevision>A.06.10 [004]</FirmwareRevision>
+					</Module>
+				</Instrument>
+			</Resources>
+			<Method xsi:type="MethodType" id="63f452f8-652a-4c6b-8b62-208e6b3764b1" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="5641d2ab-8f0f-4356-bf75-3333451d0d79" ver="0" path="01_novial.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="1a9b9e79-39bc-4632-bc4c-4b0247bdbeff" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="c2f2e46d-efcb-4540-a801-8b16e02f64a2" ver="0" path="02_DP_ini_col4_1.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="92ea2ef7-ed73-4c55-963c-bc49ee37d890" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="f55dba3c-ab78-461a-b9bc-5d090510fb22" ver="0" path="02_DP_ini_col4_2.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="4572831b-1962-43c9-8df9-9a83093c3aea" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="c8b68499-d345-4ea0-84e9-b32b25933bec" ver="0" path="02_DP_ini_col4_3.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="b7783ffe-07d5-4b9d-ba91-fde22bb7eac8" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="95d06036-5e57-49ab-bedb-f45c4df9535d" ver="0" path="03_DP_1uL_col4.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="2c557849-d474-485d-9549-6927fc955d43" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="dd9df0dc-fe28-46d9-a413-29b7ac3ebc51" ver="0" path="04_DP_1_25uL_col4.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="15d90543-7f0a-43d2-a24f-3ecd2f28eec9" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="9a6dbb08-6c2b-4945-9444-1b7bfa7e53ab" ver="0" path="05_DP_1_75uL_col4.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="30eb9da8-06ba-4ffa-a65c-f54e1060c9d9" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="378e9fe5-a243-456b-9578-f6ca12b6b2f0" ver="0" path="06_DP_2uL_col4.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="b171d82c-36b2-44df-9c6e-adad6c5edd68" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="48d26ce0-f3cf-44da-8279-ddaccc7b09cf" ver="0" path="07_DP_2_25uL_col4.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="1672b247-dfa6-4f50-8a52-388728f724f5" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="bf2823ea-97b6-471e-9617-72c53e84757a" ver="0" path="08_DP_2_5uL_col4.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="49512785-7c88-451e-bb4c-81bbd163091b" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="478f9aa9-6132-45b2-ab2e-70b5e0418add" ver="0" path="09_Blank_col4.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="bf1b0149-52b6-420f-a349-45dabf8a9a6b" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="3bb791be-ab25-4c3e-a527-f30db47c5a2e" ver="0" path="10_DP_bracket_col4_1.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="6bbd544d-5106-48c5-ad63-abe2d70c19f4" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="0d8b58e1-ed98-477c-89eb-a0250ff0c07c" ver="0" path="10_DP_bracket_col4_2.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<Method xsi:type="MethodType" id="7f1f50f1-c374-4ba9-82c2-56b0d4bf75b6" ver="0">
+				<Info>
+					<LastModifiedBy>
+						<Username />
+					</LastModifiedBy>
+					<LastModifiedDate>2017-01-21T10:03:53Z</LastModifiedDate>
+				</Info>
+				<BinaryData>
+					<DirItem>
+						<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+						<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53\HM_RP_AerisC4_30_47B_Lines_AB_60min.M</OriginalFilePath>
+					</DirItem>
+				</BinaryData>
+				<Name>HM_RP_AerisC4_30_47B_Lines_AB_60min.M</Name>
+				<QuantitationMethod>Unknown</QuantitationMethod>
+				<Integrator>Agilent, TwelveTone</Integrator>
+				<MethodConfigurationLink>
+					<ExternalMethodConfiguration_ID xsi:type="MethodConfigurationExternalRefType" id="b1e82383-80db-42da-a369-a6fad434b318" ver="0" path="10_DP_bracket_col4_3.D/acq.macaml" />
+				</MethodConfigurationLink>
+			</Method>
+			<SampleContexts>
+				<Setup xsi:type="SampleSetupContextType" id="61a53e66-7f5e-4403-ac4c-722beb610d3f" ver="0">
+					<IdentParam_ID xsi:type="SampleContextIdentParamRefType" id="cb185c2d-8ffb-4f52-a4ca-67a907bc08ad" />
+					<AcqParam_ID xsi:type="SampleContextAcquisitionParamRefType" id="2a526e5e-eb6e-4d73-b3eb-e2a419f40a56" />
+					<DAParam_ID xsi:type="SampleContextDataAnalysisParamRefType" id="6f8364f3-8135-46ec-87a3-b5a340d9fac2" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="a8499538-8281-4720-b9ce-0fdc7168d716" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="d96c5611-e475-4959-84c0-9dee09285cfa" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="4630e36e-84ed-49cc-833d-dd0c8d72132a" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="96f23e51-16ff-4eaf-b121-42cff0d0c4ca" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="35f83c0c-d517-4219-9eaf-b091a8fb0331" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="e26e233d-d2e9-486b-82e0-0c89a9ec0b0f" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="39931ec0-1241-47ad-a200-7b9dac0d219e" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="a104e2da-be38-4f3f-902d-256679f9fef6" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="f05ef09c-43e5-4631-9707-b8a979fbe5a8" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="428b6f0b-dd1c-468b-a745-5eb398812f91" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="b76bf99f-600c-411d-a256-7e437334e4a9" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="d660766b-609f-40b5-bccd-0e2ca5317952" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="9374d921-5b42-41fd-9694-d47512a65823" ver="0" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="1210b3a4-d99f-441c-8f6f-3cb4cd49d857" ver="0" />
+				</Setup>
+				<MeasData xsi:type="SampleMeasDataContextType" id="e4229bb0-91bc-499b-9002-8427d6078a5f" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username>SYSTEM</Username>
+						</CreatedBy>
+						<CreatedDate>2017-01-21T10:03:53Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+					</Info>
+					<BinaryData>
+						<DataItem>
+							<Name>ACQUIRING.TXT</Name>
+							<Data>
+								<DataFileReference>
+									<Path>ACQUIRING.TXT</Path>
+								</DataFileReference>
+							</Data>
+						</DataItem>
+						<DataItem>
+							<Name>nnd_20170121_Col4_qual.LOG</Name>
+							<Data>
+								<DataFileReference>
+									<Path>nnd_20170121_Col4_qual.LOG</Path>
+								</DataFileReference>
+							</Data>
+						</DataItem>
+					</BinaryData>
+					<SampleSetupContext_ID xsi:type="SampleSetupContextRefType" id="61a53e66-7f5e-4403-ac4c-722beb610d3f" ver="0" />
+					<IdentParam_ID xsi:type="SampleContextIdentParamRefType" id="cb185c2d-8ffb-4f52-a4ca-67a907bc08ad" />
+					<AcqParam_ID xsi:type="SampleContextAcquisitionParamRefType" id="2a526e5e-eb6e-4d73-b3eb-e2a419f40a56" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="c1617db3-b979-4435-9df9-36694168ad4d" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="2766780d-126e-45c2-bdb1-357398656f60" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="0d3defa0-fe09-4883-a420-b2338de19b72" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="d5a104bf-2649-4250-bb51-a7730505679d" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="648a05d6-68c0-4755-838e-67954c5b463c" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="ac0377e2-a0b3-4352-8e22-6fbf54bf5f39" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="f7d29e2f-97c4-4426-af38-288e85caa035" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="328e191c-e5bd-42f0-beca-65addf0b7f58" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="1955e4a6-8dab-470c-a02e-56dae2b8ac36" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="462c90e1-8771-4d84-988c-fdb6e726ff5f" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="67de0402-2996-451f-aae8-fcf2ffb1ae79" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="dd78dd25-9792-4bb3-9dc0-ebda08cfb8fa" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="c7a4ea57-3a92-419b-90fb-911b1e352451" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="8e9eadf3-d204-4489-843a-b5669f3b3524" ver="0" />
+				</MeasData>
+				<Result xsi:type="SampleResultContextType" id="3db35f39-bf30-4c68-8d75-dba3ea6e0b51" ver="0">
+					<Info>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T10:01:13Z</LastModifiedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleContextIdentParamRefType" id="cb185c2d-8ffb-4f52-a4ca-67a907bc08ad" />
+					<DAParam_ID xsi:type="SampleContextDataAnalysisParamRefType" id="6f8364f3-8135-46ec-87a3-b5a340d9fac2" />
+					<SampleSetupContext_ID xsi:type="SampleSetupContextRefType" id="61a53e66-7f5e-4403-ac4c-722beb610d3f" ver="0" />
+					<SampleMeasDataContext_ID xsi:type="SampleMeasDataContextRefType" id="e4229bb0-91bc-499b-9002-8427d6078a5f" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="ff0fe437-7f8f-4d85-8a71-523b035108fb" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="16f27966-55c8-4312-95d5-5a9d9277638b" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="37014482-d933-429a-9ebb-086b6d390cb2" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="59baff84-cbbe-4cfa-b831-343bf8307ef2" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="afc12ba2-e3b4-4a7d-be5a-3d52f4576526" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="2e0fae23-0e76-4c75-bce3-c446c7e8a9de" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="819f0855-1503-40c3-98ca-506fb5837e38" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="111ca1ad-6b95-46f1-afd0-53eebdc13778" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="2ab5ac52-7417-48a3-a8ad-d2263db42f6d" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="65d0048a-6f6f-4c66-af08-0f246af4d2bf" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="687ddf0a-7f3e-4e54-a7c0-1936f6010dd8" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="8a27acf2-9745-4ebd-bd44-0496760a1afc" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="b7842194-7bce-4ee5-8df1-9fee1a53fae8" ver="0" />
+					<SampleResult_ID xsi:type="SampleResultRefType" id="d56322d4-3c93-49a1-991a-01e1b77df219" ver="0" />
+					<DataAnalysisSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</DataAnalysisSoftware>
+					<PackagingMode>FullResultSet</PackagingMode>
+				</Result>
+			</SampleContexts>
+			<SampleContextParams>
+				<IdentParam xsi:type="SampleContextIdentParamType" id="cb185c2d-8ffb-4f52-a4ca-67a907bc08ad">
+					<Name>nnd_20170121_Col4_qual 2017-01-21 03-03-53</Name>
+					<Description>Column 4, modified method (30%B, shallow gradient starts at 47%B).  One rep of load linearity.  Sample types.</Description>
+					<ContextInfo>
+						<ContentType>Sequence</ContentType>
+						<SourceType>Undefined</SourceType>
+						<ContentIntegrity>Undefined</ContentIntegrity>
+					</ContextInfo>
+				</IdentParam>
+				<AcqParam xsi:type="SampleContextAcquisitionParamType" id="2a526e5e-eb6e-4d73-b3eb-e2a419f40a56">
+					<Instrument_ID xsi:type="InstrumentRefType" id="0e92c913-f779-4608-826d-4d4c905deef6" ver="0" />
+				</AcqParam>
+				<DAParam xsi:type="SampleContextDataAnalysisParamType" id="6f8364f3-8135-46ec-87a3-b5a340d9fac2">
+					<BracketingMode>None</BracketingMode>
+				</DAParam>
+			</SampleContextParams>
+			<Samples>
+				<Setup xsi:type="SampleSetupType" id="a8499538-8281-4720-b9ce-0fdc7168d716" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="8a4f2763-5ef7-473c-897b-25a4dc153a77" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="a2868e04-9e03-4b95-bfc0-a09cea4ec49c" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="6dd87520-c739-477e-a9ea-5c0f70cbec42" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="095dbf7c-623c-4629-b6b9-b53d8d09c859" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="d96c5611-e475-4959-84c0-9dee09285cfa" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="27ad4de8-e6a9-4da8-b82c-bfbe51fc2d5a" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="70d4412e-ddd7-4957-95ea-fd0f2d8b76b3" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="8f5c5018-f88c-4fee-b9a8-02e79c80a867" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="e4d18ded-99bd-4b86-884d-6e9cfb0034e4" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="4630e36e-84ed-49cc-833d-dd0c8d72132a" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="1bcdfc7e-25c2-4374-85e9-5c3578867f24" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="9c03e606-956d-41ee-bcce-e2e6feaff645" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="e55f2007-e9d0-4132-beeb-c585cb4f1de4" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="56681ada-8e6c-4095-8195-6bc9d1acebcd" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="96f23e51-16ff-4eaf-b121-42cff0d0c4ca" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="47488980-8fcd-488a-8782-da8578fa4af6" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="b3c8e477-6ea4-4c0f-8b00-93eaa92a080c" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="b569d07a-a83e-427a-a93e-25216fa282a6" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="77588e7f-0c94-4cad-8970-0ad1ebbf5e95" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="35f83c0c-d517-4219-9eaf-b091a8fb0331" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="be306a99-dedd-4150-9674-f695ac168680" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="11507bb7-4526-4763-8f83-f1097f9dc137" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="0808533a-8f27-4e38-9519-7078dea7ac36" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="a9d06788-f00a-4206-91f1-f71eb0d37b2d" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="e26e233d-d2e9-486b-82e0-0c89a9ec0b0f" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="5b760f65-a836-4621-ade7-4b37c44ea5d4" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="66b87245-3108-456b-9e2d-94db4b398b0d" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="c4c97bca-4f97-4b19-9c48-ffd8521f8c9c" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="cbaac768-d5c4-460c-82a0-7d81fcc9135c" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="39931ec0-1241-47ad-a200-7b9dac0d219e" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="a41f596b-dcc0-4fdc-8dc2-1c1e1983f4f3" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="d53b7e01-2b57-48d0-a2c2-32ac69c5e1d7" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="8f09b3cd-c749-4961-9d6d-95580bef63a3" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="5c70a88d-acbc-47ae-9877-52d8575bcb86" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="a104e2da-be38-4f3f-902d-256679f9fef6" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="8bd5ab9b-dbda-4740-9c94-c99f114af9f6" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="1d24c7ac-b556-4c32-b2f1-3e3f0ee2bc68" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="b514d9d9-aa49-4d32-99fa-938ef48def4b" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="98dbde85-4de6-41d8-b6c2-81ff2152d5bd" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="f05ef09c-43e5-4631-9707-b8a979fbe5a8" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="331f1d78-f746-4eee-a862-395c75339c60" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="aa201b2d-82ed-42d6-895d-d391cbfea60d" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="2aaf0dcc-4ef1-4256-bc58-94357e1e3acc" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="be507882-473d-48a8-919d-7c491a908405" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="428b6f0b-dd1c-468b-a745-5eb398812f91" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="34452427-c0ce-474e-91ec-3ecfcb6ae0bf" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="92dcb43c-bffe-42a7-8946-12a922f828f2" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="b4bd725e-0ef4-4dca-823a-11cadbe2c92f" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="e49b78d9-668e-48d5-841c-4b08cb82bdd1" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="b76bf99f-600c-411d-a256-7e437334e4a9" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="f670897e-a26a-4945-b222-f584f8b1a43c" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="885b8182-cf03-4c9f-b90b-b2e71a2b3ead" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="744a992a-4dcc-4312-a69e-983e1ec811a1" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="2e861c0f-42b2-4a4e-9143-9998be27b740" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="d660766b-609f-40b5-bccd-0e2ca5317952" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="5c2e35fc-1cce-4d74-96b3-85111b4168d0" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="b816c48b-70a6-4e78-80e4-484041e76025" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="85564933-a293-405b-8629-038c68e299fd" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="fdbefbb0-eff8-4324-a27d-c5ef007562e5" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="9374d921-5b42-41fd-9694-d47512a65823" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="87bf8096-4e77-4acf-a22e-5977eb85f53d" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="ab729033-cfdf-4ee6-aba1-8f3d34f5bee1" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="c7e412dd-20d3-4008-9b9b-22a988abd315" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="afc23964-9c55-4288-832e-ea3e521bc8c9" ver="0" />
+				</Setup>
+				<Setup xsi:type="SampleSetupType" id="1210b3a4-d99f-441c-8f6f-3cb4cd49d857" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="d7f5fd54-7f04-46de-ba5d-78ea7deab976" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="d57a5d60-813b-496b-8ac7-85b63b5186cb" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="7cf283ef-5605-41c3-9548-9be613f25f36" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="476acb87-a58a-4e4a-ad57-83d12a09879b" ver="0" />
+				</Setup>
+				<MeasData xsi:type="SampleMeasDataType" id="c1617db3-b979-4435-9df9-36694168ad4d" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T10:04:01Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="8a4f2763-5ef7-473c-897b-25a4dc153a77" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="a2868e04-9e03-4b95-bfc0-a09cea4ec49c" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="a8499538-8281-4720-b9ce-0fdc7168d716" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="c0d3bd0e-ce3c-4d6d-880b-4611cb848165" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="2766780d-126e-45c2-bdb1-357398656f60" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T11:08:52Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="27ad4de8-e6a9-4da8-b82c-bfbe51fc2d5a" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="70d4412e-ddd7-4957-95ea-fd0f2d8b76b3" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="d96c5611-e475-4959-84c0-9dee09285cfa" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="e8cce77f-cb2e-4d63-87a6-eb821e4873ed" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="0d3defa0-fe09-4883-a420-b2338de19b72" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T12:10:40Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="1bcdfc7e-25c2-4374-85e9-5c3578867f24" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="9c03e606-956d-41ee-bcce-e2e6feaff645" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="4630e36e-84ed-49cc-833d-dd0c8d72132a" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="3b484f5a-ea68-4609-8be4-de87da603a36" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="d5a104bf-2649-4250-bb51-a7730505679d" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T13:12:28Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="47488980-8fcd-488a-8782-da8578fa4af6" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="b3c8e477-6ea4-4c0f-8b00-93eaa92a080c" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="96f23e51-16ff-4eaf-b121-42cff0d0c4ca" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="0ec76df3-25ea-4227-9f9b-d20b106e62d4" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="648a05d6-68c0-4755-838e-67954c5b463c" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T14:14:14Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="be306a99-dedd-4150-9674-f695ac168680" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="11507bb7-4526-4763-8f83-f1097f9dc137" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="35f83c0c-d517-4219-9eaf-b091a8fb0331" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="43b165da-a168-4953-839c-49ae492cc5b3" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="ac0377e2-a0b3-4352-8e22-6fbf54bf5f39" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T15:16:04Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="5b760f65-a836-4621-ade7-4b37c44ea5d4" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="66b87245-3108-456b-9e2d-94db4b398b0d" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="e26e233d-d2e9-486b-82e0-0c89a9ec0b0f" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="81571e23-6e3d-48e4-baa6-14361acc66ee" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="f7d29e2f-97c4-4426-af38-288e85caa035" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T16:17:53Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="a41f596b-dcc0-4fdc-8dc2-1c1e1983f4f3" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="d53b7e01-2b57-48d0-a2c2-32ac69c5e1d7" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="39931ec0-1241-47ad-a200-7b9dac0d219e" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="ebc132be-d886-429a-a322-4bb3ccff150e" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="328e191c-e5bd-42f0-beca-65addf0b7f58" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T17:19:42Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="8bd5ab9b-dbda-4740-9c94-c99f114af9f6" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="1d24c7ac-b556-4c32-b2f1-3e3f0ee2bc68" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="a104e2da-be38-4f3f-902d-256679f9fef6" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="f7a85bcf-ed95-45c9-b9e5-5f5cb5467b17" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="1955e4a6-8dab-470c-a02e-56dae2b8ac36" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T18:21:32Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="331f1d78-f746-4eee-a862-395c75339c60" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="aa201b2d-82ed-42d6-895d-d391cbfea60d" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="f05ef09c-43e5-4631-9707-b8a979fbe5a8" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="b8d4b710-d6df-4ab3-896c-7cc0614a3357" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="462c90e1-8771-4d84-988c-fdb6e726ff5f" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T19:23:24Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="34452427-c0ce-474e-91ec-3ecfcb6ae0bf" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="92dcb43c-bffe-42a7-8946-12a922f828f2" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="428b6f0b-dd1c-468b-a745-5eb398812f91" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="a7b4da70-5c12-4402-93d5-ace1b6bcf1cf" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="67de0402-2996-451f-aae8-fcf2ffb1ae79" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T20:25:17Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="f670897e-a26a-4945-b222-f584f8b1a43c" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="885b8182-cf03-4c9f-b90b-b2e71a2b3ead" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="b76bf99f-600c-411d-a256-7e437334e4a9" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="98a55db1-39b6-4f9c-ac57-7256fb7a0197" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="dd78dd25-9792-4bb3-9dc0-ebda08cfb8fa" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T21:27:04Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="5c2e35fc-1cce-4d74-96b3-85111b4168d0" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="b816c48b-70a6-4e78-80e4-484041e76025" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="d660766b-609f-40b5-bccd-0e2ca5317952" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="884f3fa2-a774-454a-aa66-fd0a7c1e2fe0" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="c7a4ea57-3a92-419b-90fb-911b1e352451" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T22:28:53Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="87bf8096-4e77-4acf-a22e-5977eb85f53d" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="ab729033-cfdf-4ee6-aba1-8f3d34f5bee1" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="9374d921-5b42-41fd-9694-d47512a65823" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="03dbd639-2b61-40d7-aa09-130bb01b46e9" ver="0" />
+				</MeasData>
+				<MeasData xsi:type="SampleMeasDataType" id="8e9eadf3-d204-4489-843a-b5669f3b3524" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T23:30:41Z</CreatedDate>
+					</Info>
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="d7f5fd54-7f04-46de-ba5d-78ea7deab976" />
+					<AcqParam_ID xsi:type="SampleAcquisitionParamRefType" id="d57a5d60-813b-496b-8ac7-85b63b5186cb" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="1210b3a4-d99f-441c-8f6f-3cb4cd49d857" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="e367c93c-4afc-4f96-9e65-45dd9a6277c1" ver="0" />
+				</MeasData>
+				<Result xsi:type="SampleResultType" id="ff0fe437-7f8f-4d85-8a71-523b035108fb" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="8a4f2763-5ef7-473c-897b-25a4dc153a77" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="ecedd381-f868-4763-8dd6-7a1cafa3e88d" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="a8499538-8281-4720-b9ce-0fdc7168d716" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="c1617db3-b979-4435-9df9-36694168ad4d" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="d1e15783-c89f-4d09-aeb1-0df7d1d709e6" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="16f27966-55c8-4312-95d5-5a9d9277638b" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="27ad4de8-e6a9-4da8-b82c-bfbe51fc2d5a" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="79d95f90-16c3-4102-8ad1-ae1041825e3a" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="d96c5611-e475-4959-84c0-9dee09285cfa" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="2766780d-126e-45c2-bdb1-357398656f60" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="a545ceae-abe4-4e25-9cd3-b65bde27bc97" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="37014482-d933-429a-9ebb-086b6d390cb2" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="1bcdfc7e-25c2-4374-85e9-5c3578867f24" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="8461edb0-c239-4561-a2d7-86f3b782dc46" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="4630e36e-84ed-49cc-833d-dd0c8d72132a" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="0d3defa0-fe09-4883-a420-b2338de19b72" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="ae8a5ddb-0ee9-4aed-9792-a9991246581f" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="59baff84-cbbe-4cfa-b831-343bf8307ef2" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="47488980-8fcd-488a-8782-da8578fa4af6" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="f7b0d0c8-768b-4167-ab9e-fdf0950ebd9a" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="96f23e51-16ff-4eaf-b121-42cff0d0c4ca" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="d5a104bf-2649-4250-bb51-a7730505679d" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="c400e12b-107c-4d46-9370-d68b5dd78ceb" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="afc12ba2-e3b4-4a7d-be5a-3d52f4576526" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="be306a99-dedd-4150-9674-f695ac168680" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="ca5f6761-0847-4ba3-9cc3-fa730416d62d" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="35f83c0c-d517-4219-9eaf-b091a8fb0331" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="648a05d6-68c0-4755-838e-67954c5b463c" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="40c7f0a4-25d0-4b3e-a6e4-342d02090d78" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="2e0fae23-0e76-4c75-bce3-c446c7e8a9de" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="5b760f65-a836-4621-ade7-4b37c44ea5d4" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="dafdc727-4d97-4b4d-b29d-c65d813916ed" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="e26e233d-d2e9-486b-82e0-0c89a9ec0b0f" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="ac0377e2-a0b3-4352-8e22-6fbf54bf5f39" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="b00adef4-f40a-4e40-ac2c-146417812501" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="819f0855-1503-40c3-98ca-506fb5837e38" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="a41f596b-dcc0-4fdc-8dc2-1c1e1983f4f3" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="85430d3b-73c9-4b1b-ba16-3a714394ecc9" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="39931ec0-1241-47ad-a200-7b9dac0d219e" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="f7d29e2f-97c4-4426-af38-288e85caa035" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="1356b2c1-95ac-4b30-8f49-8a193434921f" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="111ca1ad-6b95-46f1-afd0-53eebdc13778" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="8bd5ab9b-dbda-4740-9c94-c99f114af9f6" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="a7226765-c4fa-435a-9712-f1ee5afefc12" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="a104e2da-be38-4f3f-902d-256679f9fef6" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="328e191c-e5bd-42f0-beca-65addf0b7f58" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="8b7a5a24-b306-4c30-a7b0-3a89f67c3531" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="2ab5ac52-7417-48a3-a8ad-d2263db42f6d" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="331f1d78-f746-4eee-a862-395c75339c60" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="f208d65e-63d6-42da-a8da-d41cf83b1fd8" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="f05ef09c-43e5-4631-9707-b8a979fbe5a8" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="1955e4a6-8dab-470c-a02e-56dae2b8ac36" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="e88c6680-0adc-4165-86f6-f058c7c3cfb8" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="65d0048a-6f6f-4c66-af08-0f246af4d2bf" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="34452427-c0ce-474e-91ec-3ecfcb6ae0bf" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="953899e9-6d6f-4080-b2e7-09e7ba04de9c" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="428b6f0b-dd1c-468b-a745-5eb398812f91" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="462c90e1-8771-4d84-988c-fdb6e726ff5f" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="d492719e-ac2e-48d5-9d60-60932de5507d" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="687ddf0a-7f3e-4e54-a7c0-1936f6010dd8" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="f670897e-a26a-4945-b222-f584f8b1a43c" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="492dd0aa-b503-456e-b717-a83ed60fbc25" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="b76bf99f-600c-411d-a256-7e437334e4a9" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="67de0402-2996-451f-aae8-fcf2ffb1ae79" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="206e3963-8a05-42b3-8e33-e89cbe33220e" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="8a27acf2-9745-4ebd-bd44-0496760a1afc" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="5c2e35fc-1cce-4d74-96b3-85111b4168d0" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="3cc80db7-ce10-40b5-aa67-5f46f5e805d6" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="d660766b-609f-40b5-bccd-0e2ca5317952" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="dd78dd25-9792-4bb3-9dc0-ebda08cfb8fa" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="2ecc1f12-ee2c-44d2-971e-d2b3fdeb393a" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="b7842194-7bce-4ee5-8df1-9fee1a53fae8" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="87bf8096-4e77-4acf-a22e-5977eb85f53d" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="076a87ec-b926-463c-9446-7573e596a94c" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="9374d921-5b42-41fd-9694-d47512a65823" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="c7a4ea57-3a92-419b-90fb-911b1e352451" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="42117987-6d0f-4611-b3c1-fbea405a301b" ver="0" />
+				</Result>
+				<Result xsi:type="SampleResultType" id="d56322d4-3c93-49a1-991a-01e1b77df219" ver="0">
+					<IdentParam_ID xsi:type="SampleIdentParamRefType" id="d7f5fd54-7f04-46de-ba5d-78ea7deab976" />
+					<DAParam_ID xsi:type="SampleDataAnalysisParamRefType" id="ca3600a4-97e3-4f9d-9c0c-8aa7c27d704c" />
+					<SampleSetup_ID xsi:type="SampleSetupRefType" id="1210b3a4-d99f-441c-8f6f-3cb4cd49d857" ver="0" />
+					<SampleMeasData_ID xsi:type="SampleMeasDataRefType" id="8e9eadf3-d204-4489-843a-b5669f3b3524" ver="0" />
+					<InjectionResult_ID xsi:type="InjectionResultRefType" id="58f6ac29-88b6-4e39-a9fd-ca6c60a644d1" ver="0" />
+				</Result>
+			</Samples>
+			<SampleParams>
+				<IdentParam xsi:type="SampleIdentParamType" id="8a4f2763-5ef7-473c-897b-25a4dc153a77">
+					<Name>No vial</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="27ad4de8-e6a9-4da8-b82c-bfbe51fc2d5a">
+					<Name>DP</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="1bcdfc7e-25c2-4374-85e9-5c3578867f24">
+					<Name>DP</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="47488980-8fcd-488a-8782-da8578fa4af6">
+					<Name>DP</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="be306a99-dedd-4150-9674-f695ac168680">
+					<Name>DP 1uL</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="5b760f65-a836-4621-ade7-4b37c44ea5d4">
+					<Name>DP 1_25uL</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="a41f596b-dcc0-4fdc-8dc2-1c1e1983f4f3">
+					<Name>DP 1_75uL</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="8bd5ab9b-dbda-4740-9c94-c99f114af9f6">
+					<Name>DP 2uL</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="331f1d78-f746-4eee-a862-395c75339c60">
+					<Name>DP 2_25uL</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="34452427-c0ce-474e-91ec-3ecfcb6ae0bf">
+					<Name>DP 2_5uL5</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="f670897e-a26a-4945-b222-f584f8b1a43c">
+					<Name>Blank form</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="5c2e35fc-1cce-4d74-96b3-85111b4168d0">
+					<Name>DP</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="87bf8096-4e77-4acf-a22e-5977eb85f53d">
+					<Name>DP</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<IdentParam xsi:type="SampleIdentParamType" id="d7f5fd54-7f04-46de-ba5d-78ea7deab976">
+					<Name>DP</Name>
+					<Description />
+					<LimsID key="" />
+					<LimsID key="" />
+					<LimsID key="" />
+					<Barcode />
+				</IdentParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="a2868e04-9e03-4b95-bfc0-a09cea4ec49c">
+					<OrderNo val="1" />
+					<VialNumber />
+					<NumberOfInjections val="1" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="70d4412e-ddd7-4957-95ea-fd0f2d8b76b3">
+					<OrderNo val="2" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="3" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="9c03e606-956d-41ee-bcce-e2e6feaff645">
+					<OrderNo val="3" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="3" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="b3c8e477-6ea4-4c0f-8b00-93eaa92a080c">
+					<OrderNo val="4" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="3" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="11507bb7-4526-4763-8f83-f1097f9dc137">
+					<OrderNo val="5" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="1" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="66b87245-3108-456b-9e2d-94db4b398b0d">
+					<OrderNo val="6" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="1" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="d53b7e01-2b57-48d0-a2c2-32ac69c5e1d7">
+					<OrderNo val="7" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="1" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="1d24c7ac-b556-4c32-b2f1-3e3f0ee2bc68">
+					<OrderNo val="8" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="1" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="aa201b2d-82ed-42d6-895d-d391cbfea60d">
+					<OrderNo val="9" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="1" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="92dcb43c-bffe-42a7-8946-12a922f828f2">
+					<OrderNo val="10" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="1" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="885b8182-cf03-4c9f-b90b-b2e71a2b3ead">
+					<OrderNo val="11" />
+					<VialNumber>10</VialNumber>
+					<NumberOfInjections val="1" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="b816c48b-70a6-4e78-80e4-484041e76025">
+					<OrderNo val="12" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="3" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="ab729033-cfdf-4ee6-aba1-8f3d34f5bee1">
+					<OrderNo val="13" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="3" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<AcqParam xsi:type="SampleAcquisitionParamType" id="d57a5d60-813b-496b-8ac7-85b63b5186cb">
+					<OrderNo val="14" />
+					<VialNumber>1</VialNumber>
+					<NumberOfInjections val="3" />
+					<InjectionVolume val="0" />
+					<InjectorPosition>Front</InjectorPosition>
+					<InjectionSource>StandardInjection</InjectionSource>
+				</AcqParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="6dd87520-c739-477e-a9ea-5c0f70cbec42">
+					<Type>Sample</Type>
+					<OrderNo val="1" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="ecedd381-f868-4763-8dd6-7a1cafa3e88d">
+					<Type>Sample</Type>
+					<OrderNo val="1" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="8f5c5018-f88c-4fee-b9a8-02e79c80a867">
+					<Type>Sample</Type>
+					<OrderNo val="2" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="79d95f90-16c3-4102-8ad1-ae1041825e3a">
+					<Type>Sample</Type>
+					<OrderNo val="2" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="e55f2007-e9d0-4132-beeb-c585cb4f1de4">
+					<Type>Sample</Type>
+					<OrderNo val="3" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="8461edb0-c239-4561-a2d7-86f3b782dc46">
+					<Type>Sample</Type>
+					<OrderNo val="3" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="b569d07a-a83e-427a-a93e-25216fa282a6">
+					<Type>Sample</Type>
+					<OrderNo val="4" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="f7b0d0c8-768b-4167-ab9e-fdf0950ebd9a">
+					<Type>Sample</Type>
+					<OrderNo val="4" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="0808533a-8f27-4e38-9519-7078dea7ac36">
+					<Type>Sample</Type>
+					<OrderNo val="5" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="ca5f6761-0847-4ba3-9cc3-fa730416d62d">
+					<Type>Sample</Type>
+					<OrderNo val="5" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="c4c97bca-4f97-4b19-9c48-ffd8521f8c9c">
+					<Type>Sample</Type>
+					<OrderNo val="6" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="dafdc727-4d97-4b4d-b29d-c65d813916ed">
+					<Type>Sample</Type>
+					<OrderNo val="6" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="8f09b3cd-c749-4961-9d6d-95580bef63a3">
+					<Type>Sample</Type>
+					<OrderNo val="7" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="85430d3b-73c9-4b1b-ba16-3a714394ecc9">
+					<Type>Sample</Type>
+					<OrderNo val="7" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="b514d9d9-aa49-4d32-99fa-938ef48def4b">
+					<Type>Sample</Type>
+					<OrderNo val="8" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="a7226765-c4fa-435a-9712-f1ee5afefc12">
+					<Type>Sample</Type>
+					<OrderNo val="8" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="2aaf0dcc-4ef1-4256-bc58-94357e1e3acc">
+					<Type>Sample</Type>
+					<OrderNo val="9" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="f208d65e-63d6-42da-a8da-d41cf83b1fd8">
+					<Type>Sample</Type>
+					<OrderNo val="9" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="b4bd725e-0ef4-4dca-823a-11cadbe2c92f">
+					<Type>Sample</Type>
+					<OrderNo val="10" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="953899e9-6d6f-4080-b2e7-09e7ba04de9c">
+					<Type>Sample</Type>
+					<OrderNo val="10" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="744a992a-4dcc-4312-a69e-983e1ec811a1">
+					<Type>Sample</Type>
+					<OrderNo val="11" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="492dd0aa-b503-456e-b717-a83ed60fbc25">
+					<Type>Sample</Type>
+					<OrderNo val="11" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="85564933-a293-405b-8629-038c68e299fd">
+					<Type>Sample</Type>
+					<OrderNo val="12" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="3cc80db7-ce10-40b5-aa67-5f46f5e805d6">
+					<Type>Sample</Type>
+					<OrderNo val="12" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="c7e412dd-20d3-4008-9b9b-22a988abd315">
+					<Type>Sample</Type>
+					<OrderNo val="13" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="076a87ec-b926-463c-9446-7573e596a94c">
+					<Type>Sample</Type>
+					<OrderNo val="13" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="7cf283ef-5605-41c3-9548-9be613f25f36">
+					<Type>Sample</Type>
+					<OrderNo val="14" />
+					<SampleAmount val="0" />
+					<DilutionFactor>
+						<CorrectionFactor val="1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+				<DAParam xsi:type="SampleDataAnalysisParamType" id="ca3600a4-97e3-4f9d-9c0c-8aa7c27d704c">
+					<Type>Sample</Type>
+					<OrderNo val="14" />
+					<SampleAmount val="-1" />
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<DilutionFactor>
+						<CorrectionFactor val="-1" />
+					</DilutionFactor>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+					<Multiplier>
+						<CorrectionFactor val="-1" />
+					</Multiplier>
+				</DAParam>
+			</SampleParams>
+			<Injections>
+				<Setup xsi:type="InjectionSetupType" id="095dbf7c-623c-4629-b6b9-b53d8d09c859" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="2ca8da47-8b18-4eba-afaf-c33f06eb443c" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="5e5a5d85-b0b6-4726-9574-a7202e6a0377" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="e4d18ded-99bd-4b86-884d-6e9cfb0034e4" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="5ecee676-ad44-4e40-90c9-2aa04f4bac1f" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="0f85f775-e368-43e5-bd76-9b6f592a1ff7" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="56681ada-8e6c-4095-8195-6bc9d1acebcd" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="cfff6f37-9066-4ff6-a95c-52d8035b0605" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="b0d26cbd-e3cd-4ea3-a42f-75899e3cdd5e" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="77588e7f-0c94-4cad-8970-0ad1ebbf5e95" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="5d868a5c-e51a-436a-b247-dad31560751a" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="cde134d5-0bac-44d6-8d02-17122495d4bc" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="a9d06788-f00a-4206-91f1-f71eb0d37b2d" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="0090ed7b-cd7a-49ec-a48b-35b64a6520a3" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="034f9b33-7e8b-4fd4-9625-5b946df68248" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="cbaac768-d5c4-460c-82a0-7d81fcc9135c" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="50112252-e402-4ae8-869b-8e337cacab89" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="9596c8bb-31a4-411e-bb00-5398320ae841" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="5c70a88d-acbc-47ae-9877-52d8575bcb86" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="d0acf200-c611-424b-aa70-6a11a8c7713b" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="0699d26e-9781-4e89-9174-d26a4d566889" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="98dbde85-4de6-41d8-b6c2-81ff2152d5bd" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="b3e868f4-dbd5-4548-ae3d-97294aeea429" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="c548b239-a702-451b-958e-6c548305efec" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="be507882-473d-48a8-919d-7c491a908405" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="23103b45-7fad-4478-9c27-67020f571e08" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="29413529-8a98-4868-8858-606cf2222ab3" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="e49b78d9-668e-48d5-841c-4b08cb82bdd1" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="2f5db53c-436e-4492-a077-464fccdc162a" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="34ddfbe0-b24f-427e-a870-b6088acac715" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="2e861c0f-42b2-4a4e-9143-9998be27b740" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="a038c4bb-3a86-45a2-9b30-23b0288ffed8" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="74bf9d86-838e-4808-986d-dc3cd271e486" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="fdbefbb0-eff8-4324-a27d-c5ef007562e5" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="ba79b2c3-861d-4c42-8ce4-dc85fee3ec47" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="a013f628-6561-409c-a646-21582d9c83ed" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="afc23964-9c55-4288-832e-ea3e521bc8c9" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="31dd7e70-ea5e-415d-86e5-e58f83db5e90" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="a1fdb0e6-9d2a-4085-92cd-49b6ed4cf66b" />
+				</Setup>
+				<Setup xsi:type="InjectionSetupType" id="476acb87-a58a-4e4a-ad57-83d12a09879b" ver="0">
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="149ccf25-0faa-4180-b34c-6f4cd2fb7cd6" />
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="351e29ed-8535-4da7-a049-df5bb91a1108" />
+				</Setup>
+				<MeasData xsi:type="InjectionMeasDataType" id="c0d3bd0e-ce3c-4d6d-880b-4611cb848165" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T10:04:01Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>01_novial.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>01_novial.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>01_novial.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>01_novial.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>01_novial.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>01_novial.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>01_novial.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>01_novial.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="2ca8da47-8b18-4eba-afaf-c33f06eb443c" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="095dbf7c-623c-4629-b6b9-b53d8d09c859" ver="0" />
+					<Signal xsi:type="SignalType" id="4f39fd75-341e-4444-bac3-f7cb96c9e352" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>01_novial.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.9980666666667" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="-1" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="e8cce77f-cb2e-4d63-87a6-eb821e4873ed" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T11:08:52Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>02_DP_ini_col4_1.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_1.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_1.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_1.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_1.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_1.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_1.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_1.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="5ecee676-ad44-4e40-90c9-2aa04f4bac1f" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="e4d18ded-99bd-4b86-884d-6e9cfb0034e4" ver="0" />
+					<Signal xsi:type="SignalType" id="95a9f991-3a08-43fc-b8ad-bf15d28aec98" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_1.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.98835" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.5" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="3b484f5a-ea68-4609-8be4-de87da603a36" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T12:10:40Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>02_DP_ini_col4_2.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_2.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_2.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_2.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_2.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_2.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_2.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_2.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="cfff6f37-9066-4ff6-a95c-52d8035b0605" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="56681ada-8e6c-4095-8195-6bc9d1acebcd" ver="0" />
+					<Signal xsi:type="SignalType" id="06d6a1e3-3c68-4acd-96d3-2fd445e16081" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_2.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.98835" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.5" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="0ec76df3-25ea-4227-9f9b-d20b106e62d4" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T13:12:28Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>02_DP_ini_col4_3.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_3.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_3.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_3.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_3.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_3.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_3.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_3.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="5d868a5c-e51a-436a-b247-dad31560751a" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="77588e7f-0c94-4cad-8970-0ad1ebbf5e95" ver="0" />
+					<Signal xsi:type="SignalType" id="e3816274-a7b2-48b9-a08d-87d7a209386f" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>02_DP_ini_col4_3.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.9980666666667" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.5" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="43b165da-a168-4953-839c-49ae492cc5b3" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T14:14:14Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>03_DP_1uL_col4.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>03_DP_1uL_col4.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>03_DP_1uL_col4.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>03_DP_1uL_col4.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>03_DP_1uL_col4.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>03_DP_1uL_col4.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>03_DP_1uL_col4.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>03_DP_1uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="0090ed7b-cd7a-49ec-a48b-35b64a6520a3" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="a9d06788-f00a-4206-91f1-f71eb0d37b2d" ver="0" />
+					<Signal xsi:type="SignalType" id="7c7be3f3-812a-4c3d-b9c1-278c0ae63961" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>03_DP_1uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.98835" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="81571e23-6e3d-48e4-baa6-14361acc66ee" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T15:16:04Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>04_DP_1_25uL_col4.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>04_DP_1_25uL_col4.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>04_DP_1_25uL_col4.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>04_DP_1_25uL_col4.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>04_DP_1_25uL_col4.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>04_DP_1_25uL_col4.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>04_DP_1_25uL_col4.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>04_DP_1_25uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="50112252-e402-4ae8-869b-8e337cacab89" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="cbaac768-d5c4-460c-82a0-7d81fcc9135c" ver="0" />
+					<Signal xsi:type="SignalType" id="355115b8-40f9-4806-b715-4ee431b401eb" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>04_DP_1_25uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.9980666666667" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.25" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="ebc132be-d886-429a-a322-4bb3ccff150e" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T16:17:53Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>05_DP_1_75uL_col4.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>05_DP_1_75uL_col4.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>05_DP_1_75uL_col4.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>05_DP_1_75uL_col4.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>05_DP_1_75uL_col4.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>05_DP_1_75uL_col4.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>05_DP_1_75uL_col4.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>05_DP_1_75uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="d0acf200-c611-424b-aa70-6a11a8c7713b" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="5c70a88d-acbc-47ae-9877-52d8575bcb86" ver="0" />
+					<Signal xsi:type="SignalType" id="59511a22-2d76-4b05-ba82-de3380c6d776" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>05_DP_1_75uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.9980666666667" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.75" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="f7a85bcf-ed95-45c9-b9e5-5f5cb5467b17" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T17:19:42Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>06_DP_2uL_col4.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>06_DP_2uL_col4.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>06_DP_2uL_col4.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>06_DP_2uL_col4.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>06_DP_2uL_col4.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>06_DP_2uL_col4.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>06_DP_2uL_col4.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>06_DP_2uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="b3e868f4-dbd5-4548-ae3d-97294aeea429" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="98dbde85-4de6-41d8-b6c2-81ff2152d5bd" ver="0" />
+					<Signal xsi:type="SignalType" id="3c8e9047-b8c2-46bd-89b9-962709a1de8f" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>06_DP_2uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.9980666666667" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="2" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="b8d4b710-d6df-4ab3-896c-7cc0614a3357" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T18:21:32Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>07_DP_2_25uL_col4.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>07_DP_2_25uL_col4.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>07_DP_2_25uL_col4.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>07_DP_2_25uL_col4.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>07_DP_2_25uL_col4.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>07_DP_2_25uL_col4.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>07_DP_2_25uL_col4.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>07_DP_2_25uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="23103b45-7fad-4478-9c27-67020f571e08" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="be507882-473d-48a8-919d-7c491a908405" ver="0" />
+					<Signal xsi:type="SignalType" id="5ada9707-0bd5-46bb-9cf3-1c754cea77c3" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>07_DP_2_25uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.98835" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="2.25" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="a7b4da70-5c12-4402-93d5-ace1b6bcf1cf" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T19:23:24Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>08_DP_2_5uL_col4.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>08_DP_2_5uL_col4.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>08_DP_2_5uL_col4.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>08_DP_2_5uL_col4.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>08_DP_2_5uL_col4.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>08_DP_2_5uL_col4.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>08_DP_2_5uL_col4.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>08_DP_2_5uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="2f5db53c-436e-4492-a077-464fccdc162a" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="e49b78d9-668e-48d5-841c-4b08cb82bdd1" ver="0" />
+					<Signal xsi:type="SignalType" id="74584b0a-6aff-47ee-9098-2e8fb06e2712" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>08_DP_2_5uL_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.9980666666667" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="2.5" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="98a55db1-39b6-4f9c-ac57-7256fb7a0197" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T20:25:17Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>09_Blank_col4.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>09_Blank_col4.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>09_Blank_col4.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>09_Blank_col4.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>09_Blank_col4.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>09_Blank_col4.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>09_Blank_col4.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>09_Blank_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="a038c4bb-3a86-45a2-9b30-23b0288ffed8" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="2e861c0f-42b2-4a4e-9143-9998be27b740" ver="0" />
+					<Signal xsi:type="SignalType" id="e1d2e183-882b-4f37-a523-e00ea7df46e3" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>09_Blank_col4.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.9980666666667" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.5" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="884f3fa2-a774-454a-aa66-fd0a7c1e2fe0" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T21:27:04Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>10_DP_bracket_col4_1.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_1.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_1.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_1.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_1.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_1.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_1.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_1.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="ba79b2c3-861d-4c42-8ce4-dc85fee3ec47" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="fdbefbb0-eff8-4324-a27d-c5ef007562e5" ver="0" />
+					<Signal xsi:type="SignalType" id="d7468b98-ea06-43cb-999d-faccbd956ad4" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_1.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.98835" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.5" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="03dbd639-2b61-40d7-aa09-130bb01b46e9" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T22:28:53Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>10_DP_bracket_col4_2.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_2.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_2.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_2.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_2.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_2.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_2.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_2.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="31dd7e70-ea5e-415d-86e5-e58f83db5e90" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="afc23964-9c55-4288-832e-ea3e521bc8c9" ver="0" />
+					<Signal xsi:type="SignalType" id="68a7a269-f454-465e-bf14-836028534dcc" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_2.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.9980666666667" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.5" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<MeasData xsi:type="InjectionMeasDataType" id="e367c93c-4afc-4f96-9e65-45dd9a6277c1" ver="0">
+					<Info>
+						<CreatedBy>
+							<Username />
+						</CreatedBy>
+						<CreatedDate>2017-01-21T23:30:41Z</CreatedDate>
+					</Info>
+					<BinaryData>
+						<DirItem>
+							<Name>10_DP_bracket_col4_3.D</Name>
+							<OriginalFilePath>C:\Chem32\1\Clients\0905\Data\20170121_nnd_HM_RP_Col4_linearity\nnd_20170121_Col4_qual 2017-01-21 03-03-53</OriginalFilePath>
+							<DataItem>
+								<Name>acq.txt</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_3.D\acq.txt</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>ACQRES.REG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_3.D\ACQRES.REG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>lcdiag.reg</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_3.D\lcdiag.reg</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>Limsinf.xml</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_3.D\Limsinf.xml</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>RUN.LOG</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_3.D\RUN.LOG</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>SAMPLE.XML</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_3.D\SAMPLE.XML</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_3.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</DirItem>
+					</BinaryData>
+					<AcqParam_ID xsi:type="InjectionAcquisitionParamRefType" id="149ccf25-0faa-4180-b34c-6f4cd2fb7cd6" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="476acb87-a58a-4e4a-ad57-83d12a09879b" ver="0" />
+					<Signal xsi:type="SignalType" id="c1d5278e-3874-490e-9c78-5667e6b60e5b" ver="0">
+						<BinaryData>
+							<DataItem>
+								<Name>VWD1A.ch</Name>
+								<Data>
+									<DataFileReference>
+										<Path>10_DP_bracket_col4_3.D\VWD1A.ch</Path>
+									</DataFileReference>
+								</Data>
+							</DataItem>
+						</BinaryData>
+						<Name>VWD1A</Name>
+						<Description>VWD1 A, Wavelength=214 nm</Description>
+						<Type>VWD1</Type>
+						<BeginTime val="0" />
+						<EndTime val="59.98835" />
+						<YAxisScalingFactor val="1" />
+						<TraceID />
+					</Signal>
+					<ActualInjVolume val="1.5" />
+					<AcquisitionSoftware>ChemStation Rev. C.01.07 [27] Copyright © Agilent Technologies</AcquisitionSoftware>
+				</MeasData>
+				<Result xsi:type="InjectionResultType" id="d1e15783-c89f-4d09-aeb1-0df7d1d709e6" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T10:04:01Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T11:04:14.517Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="5e5a5d85-b0b6-4726-9574-a7202e6a0377" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="095dbf7c-623c-4629-b6b9-b53d8d09c859" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="c0d3bd0e-ce3c-4d6d-880b-4611cb848165" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="cce47b34-af91-45c1-ac5b-c8b35fb81dcf">
+						<Signal_ID xsi:type="SignalRefType" id="4f39fd75-341e-4444-bac3-f7cb96c9e352" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="a545ceae-abe4-4e25-9cd3-b65bde27bc97" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T11:08:52Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T12:09:05.653Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="0f85f775-e368-43e5-bd76-9b6f592a1ff7" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="e4d18ded-99bd-4b86-884d-6e9cfb0034e4" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="e8cce77f-cb2e-4d63-87a6-eb821e4873ed" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="0c5f2ac8-29ca-4f11-a1c4-450d729c768e">
+						<Signal_ID xsi:type="SignalRefType" id="95a9f991-3a08-43fc-b8ad-bf15d28aec98" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="ae8a5ddb-0ee9-4aed-9792-a9991246581f" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T12:10:40Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T13:10:52.977Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="b0d26cbd-e3cd-4ea3-a42f-75899e3cdd5e" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="56681ada-8e6c-4095-8195-6bc9d1acebcd" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="3b484f5a-ea68-4609-8be4-de87da603a36" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="7990f0bb-f606-4cf6-b1a8-0d7b990fcf8f">
+						<Signal_ID xsi:type="SignalRefType" id="06d6a1e3-3c68-4acd-96d3-2fd445e16081" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="c400e12b-107c-4d46-9370-d68b5dd78ceb" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T13:12:28Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T14:12:41.088Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="cde134d5-0bac-44d6-8d02-17122495d4bc" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="77588e7f-0c94-4cad-8970-0ad1ebbf5e95" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="0ec76df3-25ea-4227-9f9b-d20b106e62d4" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="7fbb462a-31ec-419a-9d10-bdfbac6d5b15">
+						<Signal_ID xsi:type="SignalRefType" id="e3816274-a7b2-48b9-a08d-87d7a209386f" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="40c7f0a4-25d0-4b3e-a6e4-342d02090d78" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T14:14:14Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T15:14:26.798Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="034f9b33-7e8b-4fd4-9625-5b946df68248" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="a9d06788-f00a-4206-91f1-f71eb0d37b2d" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="43b165da-a168-4953-839c-49ae492cc5b3" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="7b469db8-c7c1-45c0-b06a-183a4a4d9c57">
+						<Signal_ID xsi:type="SignalRefType" id="7c7be3f3-812a-4c3d-b9c1-278c0ae63961" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="b00adef4-f40a-4e40-ac2c-146417812501" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T15:16:04Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T16:16:16.09Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="9596c8bb-31a4-411e-bb00-5398320ae841" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="cbaac768-d5c4-460c-82a0-7d81fcc9135c" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="81571e23-6e3d-48e4-baa6-14361acc66ee" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="a8995af4-bd3c-4689-aca2-254f24e156f0">
+						<Signal_ID xsi:type="SignalRefType" id="355115b8-40f9-4806-b715-4ee431b401eb" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="1356b2c1-95ac-4b30-8f49-8a193434921f" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T16:17:53Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T17:18:04.144Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="0699d26e-9781-4e89-9174-d26a4d566889" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="5c70a88d-acbc-47ae-9877-52d8575bcb86" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="ebc132be-d886-429a-a322-4bb3ccff150e" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="c5c572dd-ff23-4ec2-b061-64c4dbace6c6">
+						<Signal_ID xsi:type="SignalRefType" id="59511a22-2d76-4b05-ba82-de3380c6d776" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="8b7a5a24-b306-4c30-a7b0-3a89f67c3531" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T17:19:42Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T18:19:53.25Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="c548b239-a702-451b-958e-6c548305efec" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="98dbde85-4de6-41d8-b6c2-81ff2152d5bd" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="f7a85bcf-ed95-45c9-b9e5-5f5cb5467b17" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="4ae55272-32d8-4722-8394-e936089220f1">
+						<Signal_ID xsi:type="SignalRefType" id="3c8e9047-b8c2-46bd-89b9-962709a1de8f" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="e88c6680-0adc-4165-86f6-f058c7c3cfb8" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T18:21:32Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T19:21:44.062Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="29413529-8a98-4868-8858-606cf2222ab3" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="be507882-473d-48a8-919d-7c491a908405" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="b8d4b710-d6df-4ab3-896c-7cc0614a3357" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="13d08459-8e96-4422-a366-5d1076fbb32d">
+						<Signal_ID xsi:type="SignalRefType" id="5ada9707-0bd5-46bb-9cf3-1c754cea77c3" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="d492719e-ac2e-48d5-9d60-60932de5507d" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T19:23:24Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T20:23:36.459Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="34ddfbe0-b24f-427e-a870-b6088acac715" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="e49b78d9-668e-48d5-841c-4b08cb82bdd1" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="a7b4da70-5c12-4402-93d5-ace1b6bcf1cf" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="0cd3eaa1-9e0c-4f74-a84f-b2c8504eeb58">
+						<Signal_ID xsi:type="SignalRefType" id="74584b0a-6aff-47ee-9098-2e8fb06e2712" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="206e3963-8a05-42b3-8e33-e89cbe33220e" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T20:25:17Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T21:25:28.303Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="74bf9d86-838e-4808-986d-dc3cd271e486" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="2e861c0f-42b2-4a4e-9143-9998be27b740" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="98a55db1-39b6-4f9c-ac57-7256fb7a0197" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="26586ef0-81dc-4953-a317-a398410f49e2">
+						<Signal_ID xsi:type="SignalRefType" id="e1d2e183-882b-4f37-a523-e00ea7df46e3" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="2ecc1f12-ee2c-44d2-971e-d2b3fdeb393a" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T21:27:04Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T22:27:17.285Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="a013f628-6561-409c-a646-21582d9c83ed" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="fdbefbb0-eff8-4324-a27d-c5ef007562e5" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="884f3fa2-a774-454a-aa66-fd0a7c1e2fe0" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="f7645ec0-a8ca-41e0-a652-0652d0799f08">
+						<Signal_ID xsi:type="SignalRefType" id="d7468b98-ea06-43cb-999d-faccbd956ad4" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="42117987-6d0f-4611-b3c1-fbea405a301b" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T22:28:53Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-21T23:29:06.055Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="a1fdb0e6-9d2a-4085-92cd-49b6ed4cf66b" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="afc23964-9c55-4288-832e-ea3e521bc8c9" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="03dbd639-2b61-40d7-aa09-130bb01b46e9" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="1f766c90-fc6a-4258-b721-a3570f0e82c4">
+						<Signal_ID xsi:type="SignalRefType" id="68a7a269-f454-465e-bf14-836028534dcc" ver="0" />
+					</SignalResult>
+				</Result>
+				<Result xsi:type="InjectionResultType" id="58f6ac29-88b6-4e39-a9fd-ca6c60a644d1" ver="0">
+					<Info>
+						<CreatedDate>2017-01-21T23:30:41Z</CreatedDate>
+						<LastModifiedBy>
+							<Username>SYSTEM</Username>
+						</LastModifiedBy>
+						<LastModifiedDate>2017-01-22T00:30:53.385Z</LastModifiedDate>
+					</Info>
+					<DAParam_ID xsi:type="InjectionDataAnalysisParamRefType" id="351e29ed-8535-4da7-a049-df5bb91a1108" />
+					<InjectionSetup_ID xsi:type="InjectionSetupRefType" id="476acb87-a58a-4e4a-ad57-83d12a09879b" ver="0" />
+					<InjectionMeasData_ID xsi:type="InjectionMeasDataRefType" id="e367c93c-4afc-4f96-9e65-45dd9a6277c1" ver="0" />
+					<SignalResult xsi:type="InjectionSignalResultType" id="2597158b-cdd0-4316-83b4-f5235e214b17">
+						<Signal_ID xsi:type="SignalRefType" id="c1d5278e-3874-490e-9c78-5667e6b60e5b" ver="0" />
+					</SignalResult>
+				</Result>
+			</Injections>
+			<InjectionParams>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="2ca8da47-8b18-4eba-afaf-c33f06eb443c">
+					<Method_ID xsi:type="MethodRefType" id="63f452f8-652a-4c6b-8b62-208e6b3764b1" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="5ecee676-ad44-4e40-90c9-2aa04f4bac1f">
+					<Method_ID xsi:type="MethodRefType" id="1a9b9e79-39bc-4632-bc4c-4b0247bdbeff" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="cfff6f37-9066-4ff6-a95c-52d8035b0605">
+					<Method_ID xsi:type="MethodRefType" id="92ea2ef7-ed73-4c55-963c-bc49ee37d890" ver="0" />
+					<OrderNo val="2" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="5d868a5c-e51a-436a-b247-dad31560751a">
+					<Method_ID xsi:type="MethodRefType" id="4572831b-1962-43c9-8df9-9a83093c3aea" ver="0" />
+					<OrderNo val="3" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="0090ed7b-cd7a-49ec-a48b-35b64a6520a3">
+					<Method_ID xsi:type="MethodRefType" id="b7783ffe-07d5-4b9d-ba91-fde22bb7eac8" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="50112252-e402-4ae8-869b-8e337cacab89">
+					<Method_ID xsi:type="MethodRefType" id="2c557849-d474-485d-9549-6927fc955d43" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="d0acf200-c611-424b-aa70-6a11a8c7713b">
+					<Method_ID xsi:type="MethodRefType" id="15d90543-7f0a-43d2-a24f-3ecd2f28eec9" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="b3e868f4-dbd5-4548-ae3d-97294aeea429">
+					<Method_ID xsi:type="MethodRefType" id="30eb9da8-06ba-4ffa-a65c-f54e1060c9d9" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="23103b45-7fad-4478-9c27-67020f571e08">
+					<Method_ID xsi:type="MethodRefType" id="b171d82c-36b2-44df-9c6e-adad6c5edd68" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="2f5db53c-436e-4492-a077-464fccdc162a">
+					<Method_ID xsi:type="MethodRefType" id="1672b247-dfa6-4f50-8a52-388728f724f5" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="a038c4bb-3a86-45a2-9b30-23b0288ffed8">
+					<Method_ID xsi:type="MethodRefType" id="49512785-7c88-451e-bb4c-81bbd163091b" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="ba79b2c3-861d-4c42-8ce4-dc85fee3ec47">
+					<Method_ID xsi:type="MethodRefType" id="bf1b0149-52b6-420f-a349-45dabf8a9a6b" ver="0" />
+					<OrderNo val="1" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="31dd7e70-ea5e-415d-86e5-e58f83db5e90">
+					<Method_ID xsi:type="MethodRefType" id="6bbd544d-5106-48c5-ad63-abe2d70c19f4" ver="0" />
+					<OrderNo val="2" />
+				</AcqParam>
+				<AcqParam xsi:type="InjectionAcquisitionParamType" id="149ccf25-0faa-4180-b34c-6f4cd2fb7cd6">
+					<Method_ID xsi:type="MethodRefType" id="7f1f50f1-c374-4ba9-82c2-56b0d4bf75b6" ver="0" />
+					<OrderNo val="3" />
+				</AcqParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="5e5a5d85-b0b6-4726-9574-a7202e6a0377">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="0f85f775-e368-43e5-bd76-9b6f592a1ff7">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="b0d26cbd-e3cd-4ea3-a42f-75899e3cdd5e">
+					<OrderNo val="2" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="cde134d5-0bac-44d6-8d02-17122495d4bc">
+					<OrderNo val="3" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="034f9b33-7e8b-4fd4-9625-5b946df68248">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="9596c8bb-31a4-411e-bb00-5398320ae841">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="0699d26e-9781-4e89-9174-d26a4d566889">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="c548b239-a702-451b-958e-6c548305efec">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="29413529-8a98-4868-8858-606cf2222ab3">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="34ddfbe0-b24f-427e-a870-b6088acac715">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="74bf9d86-838e-4808-986d-dc3cd271e486">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="a013f628-6561-409c-a646-21582d9c83ed">
+					<OrderNo val="1" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="a1fdb0e6-9d2a-4085-92cd-49b6ed4cf66b">
+					<OrderNo val="2" />
+				</DAParam>
+				<DAParam xsi:type="InjectionDataAnalysisParamType" id="351e29ed-8535-4da7-a049-df5bb91a1108">
+					<OrderNo val="3" />
+				</DAParam>
+			</InjectionParams>
+		</Content>
+	</Doc>
+</ACAML>

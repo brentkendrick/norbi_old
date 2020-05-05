@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: norbi
+Version: 0.0.0
+Summary: HPLC data analysis tool
+Home-page: http://www.kbibiopharma.com/
+Author: Brent Kendrick
+Author-email: bkendrick@kbibiopharma.com
+License: Proprietary
+Description: # Norbi
+        
+        Norbi is a data trace normalization and deconvolution package.  The objectives of the package include:
+         - Baseline correction, peak centering, peak area normalization 
+         - Data visualization
+         - Quantitative data trace comparisons, including weight spectral difference, derivative correlation algorithm, area of overlap
+         - Peak fitting and deconvolution 
+        
+Platform: UNKNOWN
